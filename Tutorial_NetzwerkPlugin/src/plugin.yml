@@ -1,0 +1,4 @@
+name: Tutorial_NetzwerkPlugin
+version: 1.0-A1
+author: JayZee
+main: org.IMC.Main.MainClass
